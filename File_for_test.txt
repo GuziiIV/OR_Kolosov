@@ -1,4 +1,2 @@
 File for test
 Stroka 2
-
-Text added occasionally
